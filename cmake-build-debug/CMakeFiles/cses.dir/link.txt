@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cses.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cses.dir/objects.a @CMakeFiles\cses.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\cses.dir/objects.a -Wl,--no-whole-archive  -o cses.exe -Wl,--out-implib,libcses.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cses.dir\linklibs.rsp
