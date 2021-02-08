@@ -1,3 +1,6 @@
 # cses-problemset
-currently sorting and searching all questions are done ,
-other are coming soon.
+all questions of :-
+  dynamic-programming 
+  sorting searching
+are done!
+others are coming soon!
